@@ -3,7 +3,11 @@ def add(x, y):
     pass
 
 def subtract(x, y):
-    # todo
+    x = int(input())
+    y = int(input())
+
+    sub = x-y
+    print(sub)
     pass
 
 def multiply(x, y):
